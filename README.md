@@ -1,6 +1,6 @@
 # SQL commands used for Data Cleaning
 
-This project consists of various SQL commands that can be used in data cleaning. We often come across large data sets that require data cleaning. The question arises what are the few initial steps that we need to consider. The dataset that I have used in this project is from an automobile industry and it is named as ***automobile_data***
+This project consists of various SQL commands that can be used in data cleaning. We often come across large data sets that require data cleaning. The question arises what are the few initial steps that we need to consider. The dataset that I have used in this project is from an automobile industry and a retail cosmetic shop.
 
 ### Uploading the Dataset
 
