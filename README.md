@@ -283,10 +283,3 @@ As we can see there are null values in our table. Lets run a query using COALESC
 
 This is how the query retrieves the product code for null values. Coalesce can also be used in calculations.
 
-# Jupyter Notebook showcase
-
-Each cell can be run independently.
-First cell is installing the required dependencies
-Second cell is importing the required libraries
-Third cell is preparing data to be shown using seaborn (library) for a boxplot
-Fourth cell is defining which values will come on x-axis, y-axis and displaying them. 
